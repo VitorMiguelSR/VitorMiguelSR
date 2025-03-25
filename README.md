@@ -2,6 +2,8 @@
 
 <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
+<div align="center"><br>
+
 ### __🛸 Technologies I use in my daily life__
 <br>
 
@@ -20,3 +22,5 @@
 <a href="https://github.com/gui-ribeiro66/">
   <img alt="Snake Commit" src="https://github.com/gui-ribeiro66/gui-ribeiro66/blob/output/github-contribution-grid-snake.svg" />
 </a>
+
+</div>
