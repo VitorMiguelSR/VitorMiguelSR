@@ -15,6 +15,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="46" width="65" align="center">
 <img src="https://www.svgrepo.com/show/353723/expo-icon.svg" alt="Expo" height="46" width="65" align="center">
 
-  <a href="https://github.com/gui-ribeiro66/">
-    <img alt="Snake Commit" src="https://github.com/gui-ribeiro66/gui-ribeiro66/blob/output/github-contribution-grid-snake.svg" />
-  </a>
+</br>
+
+<a href="https://github.com/gui-ribeiro66/">
+  <img alt="Snake Commit" src="https://github.com/gui-ribeiro66/gui-ribeiro66/blob/output/github-contribution-grid-snake.svg" />
+</a>
